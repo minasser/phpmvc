@@ -1,0 +1,16 @@
+{
+    "name": "administrator/phppiggy",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mina"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
